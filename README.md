@@ -38,7 +38,8 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 - [Majority element](#challenge-8---majority-element)
 - [Design Hashset](#challenge-9---design-hashset)
 - [Sort an Array](#challenge-10---sort-an-array)
-- [Sort an Array](#challenge-11---sort-colors)
+- [Sort colors](#challenge-11---sort-colors)
+- [Top K Frequent Elements](#challenge-12---top-k-frequent-elements)
 
 ---
 
@@ -134,3 +135,6 @@ https://neetcode.io/problems/sort-an-array/question
 
 ## Challenge 11 - Sort Colors
 https://neetcode.io/problems/sort-colors/question
+
+## Challenge 12 - Top K Frequent Elements
+https://neetcode.io/problems/top-k-elements-in-list/question
