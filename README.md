@@ -43,6 +43,8 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 - [Encode and Decode Strings](#challenge-13---encode-and-decode-strings)
 - [Range Sum Query 2D Immutable](#challenge-14---range-sum-query-2d-immutable)
 - [Products of Array Except Self](#challenge-15---products-of-array-except-self)
+- [Valid Sudoku](#challenge-16---valid-sudoku)
+- [Longest Consecutive Sequence](#challenge-17---longest-consecutive-sequence)
 
 ---
 
@@ -150,3 +152,9 @@ https://neetcode.io/problems/range-sum-query-2d-immutable/question
 
 ## Challenge 15 - Products of Array Except Self
 https://neetcode.io/problems/products-of-array-discluding-self/question
+
+## Challenge 16 - Valid Sudoku
+https://neetcode.io/problems/valid-sudoku/question
+
+## Challenge 17 - Longest Consecutive Sequence
+https://neetcode.io/problems/longest-consecutive-sequence/question
