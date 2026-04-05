@@ -45,6 +45,8 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 - [Products of Array Except Self](#challenge-15---products-of-array-except-self)
 - [Valid Sudoku](#challenge-16---valid-sudoku)
 - [Longest Consecutive Sequence](#challenge-17---longest-consecutive-sequence)
+- [Best Time to Buy and Sell Stock II](#challenge-18---best-time-to-buy-and-sell-stock-ii)
+- [Majority Element II](#challenge-19---majority-element-ii)
 
 ---
 
@@ -158,3 +160,9 @@ https://neetcode.io/problems/valid-sudoku/question
 
 ## Challenge 17 - Longest Consecutive Sequence
 https://neetcode.io/problems/longest-consecutive-sequence/question
+
+## Challenge 18 - Best Time to Buy and Sell Stock II
+https://neetcode.io/problems/best-time-to-buy-and-sell-stock-ii/question
+
+## Challenge 19 - Majority Element II
+https://neetcode.io/problems/majority-element-ii/question
