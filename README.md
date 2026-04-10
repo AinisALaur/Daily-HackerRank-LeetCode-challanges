@@ -55,6 +55,7 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 - [Baseball Game](#challenge-1---baseball-game)
 - [Valid Parentheses](#challenge-2---valid-parentheses)
 - [Implement Stack Using Queues](#challenge-3---implement-stack-using-queues)
+- [Implement Queue using Stacks](#challenge-4---implement-queue-using-stacks)
 ---
 
 ### HackerRank Easy
@@ -193,3 +194,6 @@ https://neetcode.io/problems/validate-parentheses/question
 
 ## Challenge 3 - Implement Stack Using Queues
 https://neetcode.io/problems/implement-stack-using-queues/question
+
+## Challenge 4 - Implement Queue using Stacks
+https://neetcode.io/problems/implement-queue-using-stacks/question
