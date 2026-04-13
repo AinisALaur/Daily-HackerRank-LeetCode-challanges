@@ -56,6 +56,7 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 - [Valid Parentheses](#challenge-2---valid-parentheses)
 - [Implement Stack Using Queues](#challenge-3---implement-stack-using-queues)
 - [Implement Queue using Stacks](#challenge-4---implement-queue-using-stacks)
+- [Min Stack](#challenge-5---min-stack)
 ---
 
 ### HackerRank Easy
@@ -197,3 +198,6 @@ https://neetcode.io/problems/implement-stack-using-queues/question
 
 ## Challenge 4 - Implement Queue using Stacks
 https://neetcode.io/problems/implement-queue-using-stacks/question
+
+## Challenge 5 - Min Stack
+https://neetcode.io/problems/minimum-stack/question
