@@ -57,6 +57,7 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 - [Implement Stack Using Queues](#challenge-3---implement-stack-using-queues)
 - [Implement Queue using Stacks](#challenge-4---implement-queue-using-stacks)
 - [Min Stack](#challenge-5---min-stack)
+- [Evaluate Reverse Polish Notation](#challenge-6---evaluate-reverse-polish-notation)
 ---
 
 ### HackerRank Easy
@@ -201,3 +202,6 @@ https://neetcode.io/problems/implement-queue-using-stacks/question
 
 ## Challenge 5 - Min Stack
 https://neetcode.io/problems/minimum-stack/question
+
+## Challenge 6 - Evaluate Reverse Polish Notation
+https://neetcode.io/problems/evaluate-reverse-polish-notation/question
