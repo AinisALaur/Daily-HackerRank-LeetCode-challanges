@@ -58,6 +58,7 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 - [Implement Queue using Stacks](#challenge-4---implement-queue-using-stacks)
 - [Min Stack](#challenge-5---min-stack)
 - [Evaluate Reverse Polish Notation](#challenge-6---evaluate-reverse-polish-notation)
+- [Asteroid Collision](#challenge-7---asteroid-collision)
 ---
 
 ### HackerRank Easy
@@ -205,3 +206,6 @@ https://neetcode.io/problems/minimum-stack/question
 
 ## Challenge 6 - Evaluate Reverse Polish Notation
 https://neetcode.io/problems/evaluate-reverse-polish-notation/question
+
+## Challenge 7 - Asteroid Collision
+https://neetcode.io/problems/asteroid-collision/question
