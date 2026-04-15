@@ -59,6 +59,7 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 - [Min Stack](#challenge-5---min-stack)
 - [Evaluate Reverse Polish Notation](#challenge-6---evaluate-reverse-polish-notation)
 - [Asteroid Collision](#challenge-7---asteroid-collision)
+- [Daily Temperatures](#challenge-8---daily-temperatures)
 ---
 
 ### HackerRank Easy
@@ -209,3 +210,6 @@ https://neetcode.io/problems/evaluate-reverse-polish-notation/question
 
 ## Challenge 7 - Asteroid Collision
 https://neetcode.io/problems/asteroid-collision/question
+
+## Challenge 8 - Daily Temperatures
+https://neetcode.io/problems/daily-temperatures/question
