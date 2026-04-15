@@ -60,6 +60,7 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 - [Evaluate Reverse Polish Notation](#challenge-6---evaluate-reverse-polish-notation)
 - [Asteroid Collision](#challenge-7---asteroid-collision)
 - [Daily Temperatures](#challenge-8---daily-temperatures)
+- [Online Stock Span](#challenge-9---online-stock-span)
 ---
 
 ### HackerRank Easy
@@ -213,3 +214,6 @@ https://neetcode.io/problems/asteroid-collision/question
 
 ## Challenge 8 - Daily Temperatures
 https://neetcode.io/problems/daily-temperatures/question
+
+## Challenge 9 - Online Stock Span
+https://neetcode.io/problems/online-stock-span/question
