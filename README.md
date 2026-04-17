@@ -63,6 +63,7 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 - [Online Stock Span](#challenge-9---online-stock-span)
 - [Car fleet](#challenge-10---car-fleet)
 - [Simplify Path](#challenge-11---simplify-path)
+- [Decode String](#challenge-12---decode-string)
 ---
 
 ### HackerRank Easy
@@ -225,3 +226,6 @@ https://neetcode.io/problems/car-fleet/question
 
 ## Challenge 11 - Simplify Path
 https://neetcode.io/problems/simplify-path/question
+
+## Challenge 12 - Decode String
+https://neetcode.io/problems/decode-string/question
