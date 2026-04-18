@@ -69,7 +69,8 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 
 ### NeetCode - Two pointers
 - [Reverse String](#challenge-1---reverse-string)
----
+- [Valid Palindrome](#challenge-2---valid-palindrome)
+--
 
 ### HackerRank Easy
 
@@ -245,3 +246,6 @@ https://neetcode.io/problems/largest-rectangle-in-histogram/question
 
 ## Challenge 1 - Reverse String
 https://neetcode.io/problems/reverse-string/question
+
+## Challenge 2 - Valid Palindrome
+https://neetcode.io/problems/is-palindrome/question
