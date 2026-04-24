@@ -77,6 +77,7 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 - [3Sum](#challenge-8---3sum)
 - [4Sum](#challenge-9---4sum)
 - [Rotate Array](#challenge-10---rotate-array)
+- [Container With Most Water](#challenge-11---container-with-most-water)
 --
 
 ### HackerRank Easy
@@ -280,3 +281,6 @@ https://neetcode.io/problems/4sum/question
 
 ## Challenge 10 - Rotate Array
 https://neetcode.io/problems/rotate-array/question
+
+## Challenge 11 - Container With Most Water
+https://neetcode.io/problems/max-water-container/question
