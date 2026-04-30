@@ -88,6 +88,7 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 - [Sqrt(x)](#challenge-4---sqrtx)
 - [Search a 2D Matrix](#challenge-5---search-a-2d-matrix)
 - [Koko Eating Bananas](#challenge-6---koko-eating-bananas)
+- [Find Minimum in Rotated Sorted Array](#challenge-7---find-minimum-in-rotated-sorted-array)
 
 
 ### HackerRank Easy
@@ -320,3 +321,6 @@ https://neetcode.io/problems/search-2d-matrix/question
 
 ## Challenge 6 - Koko Eating Bananas
 https://neetcode.io/problems/eating-bananas/question
+
+## Challenge 7 - Find Minimum in Rotated Sorted Array
+https://neetcode.io/problems/find-minimum-in-rotated-sorted-array/question
