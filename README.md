@@ -89,6 +89,7 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 - [Search a 2D Matrix](#challenge-5---search-a-2d-matrix)
 - [Koko Eating Bananas](#challenge-6---koko-eating-bananas)
 - [Find Minimum in Rotated Sorted Array](#challenge-7---find-minimum-in-rotated-sorted-array)
+ - [Capacity to Ship Packages Within D Days](#challenge-8---capacity-to-ship-packages-within-d-days)
 
 
 ### HackerRank Easy
@@ -324,3 +325,6 @@ https://neetcode.io/problems/eating-bananas/question
 
 ## Challenge 7 - Find Minimum in Rotated Sorted Array
 https://neetcode.io/problems/find-minimum-in-rotated-sorted-array/question
+
+## Challenge 8 - Capacity to Ship Packages Within D Days
+https://neetcode.io/problems/capacity-to-ship-packages-within-d-days/question
