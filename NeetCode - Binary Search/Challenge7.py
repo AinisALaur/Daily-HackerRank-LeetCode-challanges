@@ -1,23 +1,15 @@
 class Solution:
     def findMin(self, nums: list[int]) -> int:
-        l = 0
-        h = len(nums) - 1
-        res = nums[0]
+        l, r = 0, len(nums) - 1
 
-        while l <= h:
-            if nums[l] < nums[h]:
-                res = min(nums[l], res)
-                break
-
-            mid = l + (h - l) // 2
-            res = min(nums[mid], res)
-            
-            if nums[mid] >= nums[l]:
-                l = mid + 1
+        while l < r:
+            m = (l + r) // 2
+            if nums[m] > nums[r]:
+                l = m + 1
             else:
-                h = mid - 1
-        
-        return res
+                r = m
+
+        return nums[l]
 
 sol = Solution()
 print(sol.findMin([3,4,5,6,1,2]))
